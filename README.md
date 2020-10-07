@@ -1,6 +1,13 @@
 # AlgoWiz
 
-A new Flutter project.
+A new Flutter project. This is basically an algorithm visualizer application which shows how some of the common Searching , Sorting and many other alike Algorithm works.
+
+## Available Algorithms
+Below is the list of some available algorithms present currently in the app.
+ - Bubble Sort
+
+
+
 
 ## Getting Started
 
